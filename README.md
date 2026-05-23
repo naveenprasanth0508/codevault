@@ -1,67 +1,163 @@
-# 🔐 Code Vault
+# 💎 Code Vault
 
-A personal vault of valuable coding problems, logic-building exercises, and reusable code snippets — carefully stored for learning, revision, and reference.
-
----
-
-## 📘 About
-
-**Code Vault** is your all-in-one repository to collect and preserve code that matters.
-
-This vault contains:
-
-- ✅ Frequently asked programming questions
-- ✅ Data Structures & Algorithms (DSA) patterns
-- ✅ Logic building programs (loops, recursion, math, string handling)
-- ✅ Reusable functions and code templates
-- ✅ Practice problems from platforms like LeetCode, HackerRank, Codeforces
-- ✅ Short projects or technical task solutions
-
-Whether you're preparing for interviews, brushing up skills, or revising core concepts — this vault is your personal coding backup.
+> A curated collection of coding problems, algorithmic solutions, reusable templates, and programming notes accumulated throughout my learning journey.
 
 ---
 
-You can customize folders by language, topic, or platform based on your learning flow.
+## 📌 Overview
+
+Code Vault serves as my personal repository for storing and organizing coding solutions, Data Structures & Algorithms (DSA) practice, competitive programming problems, and commonly used code templates.
+
+The goal of this repository is to maintain a centralized knowledge base that helps with interview preparation, competitive programming, academic learning, and continuous skill development.
 
 ---
 
-## ✨ Why Code Vault?
+## 🎯 Objectives
 
-🔒 **Secure & centralized**: No more scattered files across laptops or notepads  
-📚 **Revisable**: Easily come back to refresh logic before interviews or tests  
-⚡ **Quick access**: Find your most-used code in seconds  
-🧠 **Personal growth**: Track your learning, problem-solving, and improvements
-
----
-
-## 🛠️ Tech Stack (Optional)
-
-If your vault includes runnable mini-projects:
-
-- Languages: C++, Python, JavaScript  
-- Editors: VS Code, Node.js, Python 3, g++  
-- Version Control: Git & GitHub  
+- Strengthen problem-solving skills.
+- Practice Data Structures and Algorithms.
+- Build a collection of reusable code templates.
+- Prepare for coding interviews and assessments.
+- Track learning progress over time.
+- Maintain organized coding references.
 
 ---
 
-## ✅ Usage
+## 📚 What's Inside
 
-Feel free to:
+### 🔢 Data Structures
+- Arrays
+- Strings
+- Linked Lists
+- Stacks
+- Queues
+- Hash Tables
+- Trees
+- Binary Search Trees
+- Heaps
+- Graphs
 
-- Explore and reuse logic  
-- Clone for your own practice  
-- Fork and contribute if you like  
-- Add your own files as you grow!
+### ⚡ Algorithms
+- Searching Algorithms
+- Sorting Algorithms
+- Recursion
+- Backtracking
+- Greedy Algorithms
+- Dynamic Programming
+- Graph Algorithms
+- Sliding Window
+- Two Pointers
+- Binary Search
+
+### 🧠 Problem Solving
+- Logic Building Programs
+- Pattern Problems
+- Mathematical Problems
+- String Manipulation
+- Bit Manipulation
+
+### 🏆 Competitive Programming
+- LeetCode Solutions
+- HackerRank Challenges
+- Codeforces Problems
+- GeeksforGeeks Practice
+- Coding Contest Solutions
+
+### 📋 Templates
+- Fast Input/Output
+- Graph Templates
+- Tree Traversal Templates
+- Dynamic Programming Templates
+- Competitive Programming Boilerplate
 
 ---
 
-## 🙏 Thank You
+## 📂 Repository Structure
 
-Thank you for exploring **Code Vault**.  
-This is more than a collection — it's a reflection of growth and learning.
-
-> _“The more you sweat in practice, the less you bleed in battle.”_ 💻⚔️
+```text
+Code-Vault/
+│
+├── Arrays/
+├── Strings/
+├── LinkedList/
+├── Stack/
+├── Queue/
+├── Trees/
+├── Graphs/
+├── DynamicProgramming/
+├── Recursion/
+├── CompetitiveProgramming/
+├── Templates/
+└── README.md
+```
 
 ---
 
+## 🛠️ Languages Used
 
+- C++
+- Python
+- Java
+- JavaScript
+
+---
+
+## 🚀 Why This Repository?
+
+### 📚 Learning Repository
+A structured archive of concepts, solutions, and coding techniques.
+
+### 🎯 Interview Preparation
+Quick revision resource for technical interviews and online assessments.
+
+### ⚡ Reusable Templates
+Ready-to-use implementations for frequently used algorithms and data structures.
+
+### 📈 Progress Tracking
+A record of continuous learning and improvement in problem-solving.
+
+---
+
+## 💻 How to Use
+
+1. Browse topics based on your interest.
+2. Review solutions and explanations.
+3. Practice problems independently.
+4. Compare approaches and optimize solutions.
+5. Reuse templates when needed.
+
+---
+
+## 📊 Learning Outcomes
+
+- Improved algorithmic thinking.
+- Better problem decomposition skills.
+- Stronger understanding of DSA concepts.
+- Enhanced coding interview preparation.
+- Increased competitive programming experience.
+
+---
+
+## 🎓 Ideal For
+
+- Students learning DSA
+- Coding interview preparation
+- Competitive programming practice
+- Placement preparation
+- Technical skill enhancement
+
+---
+
+## 👨‍💻 Maintained By
+
+**Naveen Prasanth P**  
+B.E. Computer Science and Engineering
+
+- 💻 Problem Solver
+- 🚀 Software Developer
+- ☁️ Cloud & DevOps Enthusiast
+- 📚 Continuous Learner
+
+---
+
+> **"Every solved problem is another step toward mastery."** 💎
